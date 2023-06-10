@@ -4,6 +4,7 @@ date: 2023-03-07 11:20:50
 ---
 ## honor & activities
 
++ 上海市高等学校信息技术水平考试_四级人工智能 优秀
 + 2023-03-08 successful blood donation 200ml.
 + 2023-01 第十九届中国研究生数学建模竞赛 二等奖 E2022200925
 + 2022-11-30 SHU Outstanding student.
